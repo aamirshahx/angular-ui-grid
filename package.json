@@ -1,0 +1,26 @@
+{
+      "name": "@external/angular-ui-grid",
+      "version": "v3.0.0-rc.21",
+      "description": "",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "files": [
+        "./ui-grid.css",
+        "./ui-grid.eot",
+        "./ui-grid.js",
+        "./ui-grid.svg",
+        "./ui-grid.ttf",
+        "./ui-grid.woff"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/angular-ui/ui-grid.git"
+      },
+      "license": "MIT",
+      "publishConfig": {
+  	"registry": "https://js.colwiz.org"
+      },
+      "dependencies": {},
+      "devDependencies": {}
+}
